@@ -1,0 +1,34 @@
+{
+    "idf.adapterTargetName": "esp32c3",
+    "idf.portWin": "/dev/ttyACM1",
+    "idf.flashType": "UART",
+    "files.associations": {
+        "gpio.h": "c",
+        "esp_chip_info.h": "c",
+        "esp_system.h": "c",
+        "esp_wifi.h": "c",
+        "twai.h": "c",
+        "esp_types.h": "c",
+        "freertos.h": "c",
+        "system_error": "c",
+        "*.tcc": "cpp",
+        "esp_flash.h": "c",
+        "sdkconfig.h": "c",
+        "semphr.h": "c",
+        "queue.h": "c",
+        "task.h": "c",
+        "inttypes.h": "c",
+        "stdio.h": "c",
+        "event_groups.h": "c",
+        "esp_err.h": "c",
+        "array": "c",
+        "string": "c",
+        "string_view": "c",
+        "functional": "c"
+    },
+    "idf.port": "/dev/ttyACM1",
+    "cSpell.words": [
+        "twai"
+    ],
+    "editor.formatOnSave": true
+}
